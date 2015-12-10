@@ -1,0 +1,9 @@
+.sidebar,
+.widget {
+  float: right;
+  margin-left: 10px;
+}
+
+.widget {
+  padding: 3px;
+}
